@@ -9,3 +9,27 @@ The project is divided into two main components:
 Byte Pair Encoding (BPE): Implements the BPE algorithm to learn subword vocabularies from a text corpus through iterative pair merging. It demonstrates how modern language models efficiently tokenize text into meaningful subword units.
 
 Autoregressive Causal Language Model: Implements the preprocessing pipeline of a causal language model that predicts the next token in a sequence using only the previously observed tokens, illustrating the autoregressive learning process used in transformer-based language models.
+
+# 🎯 Objectives
+
+The main objectives of this project are:
+
+- Implement the Byte Pair Encoding (BPE) algorithm from scratch using Python and NumPy.
+
+- Understand how subword tokenization is performed in modern Natural Language Processing (NLP) systems.
+
+- Build an Autoregressive Causal Language Model (CLM) that predicts the next token based on previously observed tokens.
+
+- Demonstrate the complete preprocessing pipeline, including vocabulary creation, tokenization, embedding generation, and positional encoding.
+
+- Explore the fundamental concepts behind transformer-based language models without using external deep learning frameworks.
+
+- Gain practical experience in implementing core NLP algorithms through manual coding.
+
+- Develop a deeper understanding of how Large Language Models (LLMs) process and represent text.
+
+- Provide an educational resource for students and beginners interested in NLP, tokenization, and language model architectures.
+
+- Strengthen programming skills in Python and NumPy by implementing language model components from first principles.
+
+- Create a simple, modular, and easy-to-understand implementation that can serve as a foundation for building more advanced NLP and transformer models.
