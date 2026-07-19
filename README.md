@@ -69,3 +69,8 @@ The language model notebook demonstrates the complete preprocessing pipeline use
 
 -Jupyter Notebook
 
+# ▶️ How to Run
+
+1. Clone the repository.
+git clone 
+2. 
