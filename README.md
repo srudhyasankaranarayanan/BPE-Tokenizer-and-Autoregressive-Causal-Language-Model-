@@ -36,3 +36,36 @@ The main objectives of this project are:
 
 # 📖 Byte Pair Encoding (BPE)
 
+The BPE notebook performs the following tasks:
+
+- Reads text from a corpus
+
+- Creates an initial character-level vocabulary
+
+-Calculates pair frequencies
+
+-Identifies the most frequent character pairs
+
+-Merges frequent pairs iteratively
+
+-Builds a subword vocabulary
+
+-Encodes new words into subword tokens
+
+-Decodes tokens back into text
+
+# Autoregressive Causal Language Model
+
+The language model notebook demonstrates the complete preprocessing pipeline used before training an autoregressive language model.
+
+# Workflow
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7ac90df6-ac10-431c-9d24-30de3a4818ca" />
+
+# 🛠 Technologies Used
+
+-Python
+
+-NumPy
+
+-Jupyter Notebook
+
