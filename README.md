@@ -54,11 +54,13 @@ The BPE notebook performs the following tasks:
 
 -Decodes tokens back into text
 
-# Autoregressive Causal Language Model
+# 🤖 Autoregressive Causal Language Model
 
 The language model notebook demonstrates the complete preprocessing pipeline used before training an autoregressive language model.
 
-# Workflow
+# 🧠Workflow
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8008f7c2-5569-4648-9886-8a1fb11fbb3a" />
 
 # 🛠 Technologies Used
 
@@ -68,8 +70,14 @@ The language model notebook demonstrates the complete preprocessing pipeline use
 
 -Jupyter Notebook
 
-# ▶️ How to Run
+# 👩‍💻 Author
 
-1. Clone the repository.
-git clone https://github.com/srudhyasankaranarayanan/BPE-Tokenizer-and-Autoregressive-Causal-Language-Model
-2. 
+Srudhya S
+
+B.Sc. Computer Science with Artificial Intelligence
+
+Passionate about Artificial Intelligence, Natural Language Processing (NLP), Python Programming, and Machine Learning. This project reflects my learning journey in implementing the fundamental concepts of tokenization and language modeling from scratch
+
+# ⭐ Acknowledgement
+
+This project was developed for educational purposes to understand the Byte Pair Encoding (BPE) algorithm and the Autoregressive Causal Language Model from scratch using Python and NumPy. The implementation focuses on providing a practical understanding of subword tokenization, vocabulary learning, embeddings, positional encoding, and the preprocessing pipeline used in modern Large Language Models (LLMs).
